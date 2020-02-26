@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2cc0f56-c9ee-4d67-ac58-c0f7e750313b" name="Default Changelist" comment="" />
+    <list default="true" id="d2cc0f56-c9ee-4d67-ac58-c0f7e750313b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,27 +66,37 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="450">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
-                <marker date="1582702952888" expanded="true" signature="194:199" ph="..." />
-                <marker date="1582702952888" expanded="true" signature="454:587" ph="..." />
-                <marker date="1582702952888" expanded="false" signature="618:623" ph="..." />
-                <marker date="1582702952888" expanded="true" signature="618:1091" ph="..." />
-                <marker date="1582702952888" expanded="true" signature="1127:1136" ph="..." />
+                <marker date="1582705515048" expanded="true" signature="194:199" ph="..." />
+                <marker date="1582705515048" expanded="true" signature="454:587" ph="..." />
+                <marker date="1582705515048" expanded="false" signature="618:623" ph="..." />
+                <marker date="1582705515048" expanded="true" signature="618:1091" ph="..." />
+                <marker date="1582705515048" expanded="true" signature="1127:1136" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -206,8 +218,8 @@
         <option value="$PROJECT_DIR$/polls/templates/polls/detail.html" />
         <option value="$PROJECT_DIR$/polls/urls.py" />
         <option value="$PROJECT_DIR$/polls/templates/polls/results.html" />
-        <option value="$PROJECT_DIR$/polls/views.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/polls/views.py" />
       </list>
     </option>
   </component>
@@ -267,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -311,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582702963412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="다시 1로 바꾸기">
+      <created>1582705524803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705524803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -328,8 +347,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4997531" weight="0.32930514" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4982716" visible="true" weight="0.29305136" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017284" side_tool="true" visible="true" weight="0.29305136" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4982716" visible="true" weight="0.29305136" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5017284" side_tool="true" visible="true" weight="0.29305136" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -383,20 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1582702952888" expanded="true" signature="194:199" ph="..." />
-            <marker date="1582702952888" expanded="true" signature="454:587" ph="..." />
-            <marker date="1582702952888" expanded="false" signature="618:623" ph="..." />
-            <marker date="1582702952888" expanded="true" signature="618:1091" ph="..." />
-            <marker date="1582702952888" expanded="true" signature="1127:1136" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,6 +478,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <marker date="1582705515048" expanded="true" signature="194:199" ph="..." />
+            <marker date="1582705515048" expanded="true" signature="454:587" ph="..." />
+            <marker date="1582705515048" expanded="false" signature="618:623" ph="..." />
+            <marker date="1582705515048" expanded="true" signature="618:1091" ph="..." />
+            <marker date="1582705515048" expanded="true" signature="1127:1136" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
