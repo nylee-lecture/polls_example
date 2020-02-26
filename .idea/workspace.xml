@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2cc0f56-c9ee-4d67-ac58-c0f7e750313b" name="Default Changelist" comment="" />
+    <list default="true" id="d2cc0f56-c9ee-4d67-ac58-c0f7e750313b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +69,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -81,14 +84,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="342">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
-                <marker date="1582707348517" expanded="true" signature="194:199" ph="..." />
-                <marker date="1582707348517" expanded="true" signature="454:587" ph="..." />
-                <marker date="1582707348517" expanded="false" signature="618:623" ph="..." />
-                <marker date="1582707348517" expanded="true" signature="618:1091" ph="..." />
-                <marker date="1582707348517" expanded="true" signature="1127:1136" ph="..." />
+                <marker date="1582708586800" expanded="true" signature="194:199" ph="..." />
+                <marker date="1582708586800" expanded="true" signature="454:587" ph="..." />
+                <marker date="1582708586800" expanded="false" signature="618:623" ph="..." />
+                <marker date="1582708586800" expanded="true" signature="618:1091" ph="..." />
+                <marker date="1582708586800" expanded="true" signature="1127:1136" ph="..." />
               </folding>
             </state>
           </provider>
@@ -342,11 +345,19 @@
       <option name="project" value="LOCAL" />
       <updated>1582707413212</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="다시 1로 바꾸기">
+      <created>1582708297293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582708297293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2567" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,9 +369,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4997531" weight="0.32930514" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4982716" visible="true" weight="0.29305136" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017284" side_tool="true" visible="true" weight="0.29305136" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49925926" visible="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4982716" weight="0.29305136" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074077" side_tool="true" visible="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -495,14 +506,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="342">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
-            <marker date="1582707348517" expanded="true" signature="194:199" ph="..." />
-            <marker date="1582707348517" expanded="true" signature="454:587" ph="..." />
-            <marker date="1582707348517" expanded="false" signature="618:623" ph="..." />
-            <marker date="1582707348517" expanded="true" signature="618:1091" ph="..." />
-            <marker date="1582707348517" expanded="true" signature="1127:1136" ph="..." />
+            <marker date="1582708586800" expanded="true" signature="194:199" ph="..." />
+            <marker date="1582708586800" expanded="true" signature="454:587" ph="..." />
+            <marker date="1582708586800" expanded="false" signature="618:623" ph="..." />
+            <marker date="1582708586800" expanded="true" signature="618:1091" ph="..." />
+            <marker date="1582708586800" expanded="true" signature="1127:1136" ph="..." />
           </folding>
         </state>
       </provider>
